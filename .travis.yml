@@ -3,6 +3,6 @@ node_js:
   - "6.10.3"
 install:
     #  - npm install -g webpack
-  - npm run project
+  - npm test
 before_script:
 script:
