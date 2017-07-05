@@ -1,0 +1,23 @@
+{
+  "name": "try-travis",
+  "version": "0.0.1",
+  "description": "try travis-ci",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poplark/try-travis.git"
+  },
+  "keywords": [
+    "travis",
+    "ci"
+  ],
+  "author": "poplark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poplark/try-travis/issues"
+  },
+  "homepage": "https://github.com/poplark/try-travis#readme"
+}
